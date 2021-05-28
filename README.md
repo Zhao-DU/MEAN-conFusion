@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   * Flex Layout
   * Async/RxJS
   * HTTP requests to backend server (NodeJS server in progress, current JSONs files served by json-server)
-    * See npm install json-server
+    * npm install json-server
   * Form input and validation
 
 ## Development server
