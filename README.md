@@ -9,7 +9,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   * Material Design
   * Flex Layout
   * Async/RxJS
-  * HTTP requests to backend server (NodeJS server in progress, currently a JSON server) 
+  * HTTP requests to backend server (NodeJS server in progress, current JSONs files served by json-server)
+    * See npm install json-server
   * Form input and validation
 
 ## Development server
